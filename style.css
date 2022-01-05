@@ -42,15 +42,24 @@ section{
 
 .mission-color{
     background-color: pink;
-    
+    width: 40%;
+    padding-left: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .vission-color{
     background-color: slategrey;
-   
+    width: 40%;
+    padding-left: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .goods-color{
     background-color: rgb(104, 158, 158);
-    
+    width: 40%;
+    padding-left: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
