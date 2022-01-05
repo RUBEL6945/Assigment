@@ -1,0 +1,37 @@
+body{
+
+    margin: 0%;
+}
+h1{
+    font-size: 40px;
+}
+section{
+    display: flex;
+    margin-bottom: 100%;
+}
+
+.dream-area{
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 5;
+    border-left: 8px solid;
+}
+
+.half-width{
+    width: 50%;
+    padding: 10%;
+}
+
+.half-width img{
+    width: 80%;
+    
+}
+
+.orrange-color{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(199, 181, 15), tomato);
+    padding: 10px;
+    border-radius: 20px;
+}
