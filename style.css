@@ -7,7 +7,7 @@ h1{
 }
 section{
     display: flex;
-    margin-bottom: 100%;
+    margin-bottom:10%;
 }
 
 .dream-area{
@@ -34,4 +34,23 @@ section{
     background-image: linear-gradient(rgb(199, 181, 15), tomato);
     padding: 10px;
     border-radius: 20px;
+}
+
+.text-align{
+    text-align: center;
+}
+
+.mission-color{
+    background-color: pink;
+    
+}
+
+.vission-color{
+    background-color: slategrey;
+   
+}
+
+.goods-color{
+    background-color: rgb(104, 158, 158);
+    
 }
