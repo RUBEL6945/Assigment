@@ -109,12 +109,12 @@ section{
 .center-align{
     text-align: center;
     padding: 10px;
-    
+
 }
-.font-styel{
- font-family: 'Island Moments', cursive;
-font-family: 'Poppins', sans-serif;
-   
+
+.font-style{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
