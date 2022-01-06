@@ -3,6 +3,7 @@ body{
     margin: 0%;
     background-color: snow;
     display: block;
+    
 }
 h1{
     font-size: 40px;
@@ -107,8 +108,14 @@ section{
 }
 .center-align{
     text-align: center;
+    padding: 10px;
+    
 }
-
+.font-styel{
+ font-family: 'Island Moments', cursive;
+font-family: 'Poppins', sans-serif;
+   
+}
 
 
 
