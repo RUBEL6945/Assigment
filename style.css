@@ -77,7 +77,7 @@ section{
 #picture{
     width: 80%;
     height: 60%;
-    background-image: url(/images/download\ \(4\).jpg);
+    background-image: url(images/download\ \(4\).jpg);
     background-repeat: no-repeat;
     background-position: left;
 
@@ -86,7 +86,7 @@ section{
 #dream-picute{
     width: 80%;
     height: 60%;
-    background-image: url(/images/download\ \(5\).jpg);
+    background-image: url(images/download\ \(5\).jpg);
    background-repeat: no-repeat;
     background-position: right;
 
@@ -95,7 +95,7 @@ section{
 #last-dream{
     width: 80%;
     height: 60%;
-    background-image: url(/images/shapes/shape-3.png);
+    background-image: url(images/shapes/shape-3.png);
     background-repeat: no-repeat;
     background-position:left, top;
 }
