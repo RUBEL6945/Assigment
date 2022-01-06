@@ -2,6 +2,7 @@ body{
 
     margin: 0%;
     background-color: snow;
+    display: block;
 }
 h1{
     font-size: 40px;
@@ -94,9 +95,9 @@ section{
 #last-dream{
     width: 80%;
     height: 60%;
-    background-image: url(/images/download\ \(4\).jpg);
+    background-image: url(/images/shapes/shape-3.png);
     background-repeat: no-repeat;
-    background-position: bottom ;
+    background-position:left, top;
 }
 
 .background-color-change{
@@ -107,7 +108,6 @@ section{
 .center-align{
     text-align: center;
 }
-
 
 
 
